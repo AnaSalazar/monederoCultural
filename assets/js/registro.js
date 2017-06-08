@@ -14,7 +14,8 @@ var bienvenida = function (){
 
 }
 var cargaPagina = function (){
-	$("#enviarCodigo").click(codigoVerificado);
+
+	$(".enviarCodigo").click("codigoVerificado");
 	$("#registro").click(bienvenida);
 }
 
