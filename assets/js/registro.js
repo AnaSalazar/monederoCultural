@@ -6,13 +6,16 @@ var codigoVerificado = function(){
 
 
 }
+var bienvenida = function (){
+	var $nombre = $("#nomUsuario").val();
+	alert("Bienvenido"+$nombre);
+	window.location.href ="perfil.html";
 
-var cargaPagina = function (){
-	$("#enviarCodigo").click(codigoVerificado);
 
 }
 var cargaPagina = function (){
-	(".enviarCodigo").click("codigoVerificado");
+	$("#enviarCodigo").click(codigoVerificado);
+	$("#registro").click(bienvenida);
 }
 
 $(document).ready(cargaPagina);
