@@ -1,0 +1,57 @@
+.perfil-container{
+    width: 100%;
+    height: 100vh;
+}
+.perfil-container div {
+    width: 100%;
+    height: auto;
+
+}
+
+.perfil-container div img{
+    margin-top: 11%;
+    width: 38%;
+    height: auto;
+
+}
+
+.barraContenedor {
+    width: 100%;
+}
+
+.titulo-barras {
+    margin: 0;
+}
+
+.titulo-barras p {
+    margin-bottom: 0;
+    color: white;
+}
+
+.rosa {
+    background-color: #D90368;
+}
+
+.azul {
+    background-color: #E8AA14;
+}
+
+.amarillo {
+    background-color: #E4FF1A;
+}
+
+
+.btn-mar {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.logoNav {
+    width: 22%;
+    margin-top: 3%;
+    
+}
+
+.btn-mar button a {
+    text-decoration: none;
+}

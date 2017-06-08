@@ -1,0 +1,12 @@
+nav{
+ background-color:#1BE7FF;
+}
+
+.nav-wrapper .side-nav{
+   background-color: #D90368;
+ }
+ .nav-wrapper .side-nav a{
+ 	 font-size:24px;
+ 	 font-weight: 500;
+ 	 color: white;
+ }

@@ -1,0 +1,12 @@
+.logoPrincipal{
+
+	width:100%;
+	margin-top: 5vh;
+	/*height:10vh;*/
+}
+.fondo{
+	bottom: -15vh;
+}
+.colorBtn{
+	background-color: #D90368;
+}

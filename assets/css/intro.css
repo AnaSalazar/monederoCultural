@@ -1,0 +1,73 @@
+.logoIntro{
+    width: 100%;
+    padding-top: 10px;
+}
+
+body{
+    background-color: #541388;
+    color: white;
+}
+.justificarTexto{
+    text-align: justify;
+    font-size: 18px;
+}
+
+.recompensa{
+    color: #E8AA14;
+}
+
+.puntos{
+    color: #D90368;
+}
+
+.descuentos{
+    color: #1BE7FF;
+}
+
+.punteroModal{
+    cursor: pointer;
+    font-size: 25px;
+    color: inherit;
+}
+
+a:hover{
+    color: #E8AA14;
+}
+
+.fondoModalRecompensa{
+    background-color: #E8AA14;
+    color: white;
+    font-size: 20px;
+}
+
+.fondoModalPuntos{
+    background-color: #D90368;
+    color: white;
+    font-size: 20px;
+}
+
+.fondoModalDescuentos{
+    background-color: #1BE7FF;
+    color: white;
+    font-size: 20px;
+}
+
+.formaModal{
+    border-radius: 3%;
+}
+
+.botonInicio{
+    background-color: #E8AA14;
+    border: none;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.botonInicio:hover{
+    color: #541388;
+}
+
+
+
