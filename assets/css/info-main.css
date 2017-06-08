@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body{
+	background:;
+}
+
+.status{
+	width: 100%;
+}
+.stars{
+	width: 30%;
+}
+.monedero{
+	margin:10%;
+}
+.caroucel-item .carousel{
+	height: 80vh;
+}
+.alto .carousel-item img{
+	height: 80vh;
+}
+.color{
+	background: #541388;
+}
