@@ -12,7 +12,7 @@ var cargaPagina = function (){
 
 }
 var cargaPagina = function (){
-	(".enviarCodigo").click("codigoVerificado");
+	$(".enviarCodigo").click("codigoVerificado");
 }
 
 $(document).ready(cargaPagina);
